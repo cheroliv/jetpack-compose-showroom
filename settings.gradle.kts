@@ -21,5 +21,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Jetpack Compose Playground"
+rootProject.name = "Jetpack Compose Showroom"
 include(":app")
