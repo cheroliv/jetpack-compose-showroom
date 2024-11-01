@@ -1,10 +1,10 @@
-package education.cccp.jetpack.compose.showroom
+package jetpack.compose.showroom
 
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import education.cccp.jetpack.compose.showroom.ui.theme.JetpackComposeShowroomTheme
+import jetpack.compose.showroom.ui.theme.JetpackComposeShowroomTheme
 
 @Composable
 fun Greeting(

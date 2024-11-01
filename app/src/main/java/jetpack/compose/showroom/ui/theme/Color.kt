@@ -1,4 +1,4 @@
-package education.cccp.jetpack.compose.showroom.ui.theme
+package jetpack.compose.showroom.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

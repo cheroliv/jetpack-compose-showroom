@@ -1,4 +1,4 @@
-package education.cccp.jetpack.compose.showroom.ui.theme
+package jetpack.compose.showroom.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
