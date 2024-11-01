@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "education.cccp.jetpack.compose.showroom"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "education.cccp.jetpack.compose.showroom"
